@@ -1,0 +1,19 @@
+{
+  "name": "poc-semver-circleci",
+  "version": "0.0.0-development",
+  "description": "This is a prove of concept to test automatic semantic version with CircleCi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitor-tadashi/poc-semver-circleci.git"
+  },
+  "author": "Vitor Tadashi",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/vitor-tadashi/poc-semver-circleci/issues"
+  },
+  "homepage": "https://github.com/vitor-tadashi/poc-semver-circleci#readme"
+}
